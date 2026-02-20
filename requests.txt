@@ -1,0 +1,12 @@
+numpy
+pandas
+yfinance
+matplotlib
+mplcyberpunk
+seaborn
+scipy
+statsmodels
+scikit-learn
+requests
+tqdm
+bcb
